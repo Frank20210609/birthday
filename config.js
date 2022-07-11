@@ -37,7 +37,7 @@ var config = {
         bannar_coming: "再来点色彩？",
         balloons_flying: "🤔好像还少点东西…",
         cake_fadein: "对了，蛋糕呢？",
-        light_candle: "还要点燃蜡烛！",
+        light_candle: "请点燃蜡烛！",
         wish_message: "祝你生日快乐！🎈",
         story: "A MESSAGE FOR YOU 🌹🌹🌹",
     }
