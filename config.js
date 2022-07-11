@@ -35,9 +35,9 @@ var config = {
         turn_on: "⏳点击一下有惊喜哟",
         play: "来点音乐吧🎵",
         bannar_coming: "再来点色彩？",
-        balloons_flying: "🤔还少点东西…",
+        balloons_flying: "🤔好像少点东西…",
         cake_fadein: "对了，蛋糕呢？",
-        light_candle: "请点燃蜡烛！",
+        light_candle: "蜡烛？",
         wish_message: "祝你生日快乐！🎈",
         story: "A MESSAGE FOR YOU 🌹🌹🌹",
     }
