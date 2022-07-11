@@ -3,7 +3,7 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "🌹送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "🥰🥰🥰 送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "💖心爱的雯雯",  // 同上...
         "今天是你的生日🎂",
         "这是我们💑在一起的",
@@ -34,11 +34,11 @@ var config = {
     desc: {
         turn_on: "⏳点击一下有惊喜哟",
         play: "来点音乐吧🎵",
-        bannar_coming: "再来点色彩",
-        balloons_flying: "🤔好像还少点东西……",
+        bannar_coming: "再来点色彩？",
+        balloons_flying: "🤔好像还少点东西…",
         cake_fadein: "对了，蛋糕呢？",
-        light_candle: "再帮忙点燃蜡烛🕯！",
+        light_candle: "还要点燃蜡烛！",
         wish_message: "祝你生日快乐！🎈",
-        story: "A MESSAGE FOR YOU🥰🥰",
+        story: "A MESSAGE FOR YOU 🌹🌹🌹",
     }
 };
